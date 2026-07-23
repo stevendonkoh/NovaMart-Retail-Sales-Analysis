@@ -89,3 +89,55 @@ Pivot Tables were used to answer key business questions including:
 - Which salesperson generates the highest sales?
 - What is the customer retention rate?
 - What is the return rate?
+## 🖼️ Dashboard Preview
+
+Below is a preview of the final Google Sheets dashboard created for this project.
+
+![Dashboard Preview](Dashboard.png)
+
+## 📌 Key Business Insights
+
+- **Electronics** generated the highest revenue, significantly outperforming other product categories.
+- **Greater Accra** recorded the highest regional sales, indicating a strong customer base.
+- The **HP Laptop** was the highest revenue-generating product.
+- **Mobile Money (MoMo)** was the preferred payment method, accounting for over 40% of all transactions.
+- Approximately **52% of customers were returning customers**, indicating strong customer loyalty.
+- Around **15% of transactions** had no recorded payment method, highlighting an opportunity to improve data collection.
+
+  ## 💡 Business Recommendations
+
+Based on the analysis, the following recommendations are proposed:
+
+- Increase marketing efforts for Furniture and Office Supplies to diversify revenue sources.
+- Apply successful sales strategies from Greater Accra to other regions.
+- Maintain adequate inventory levels for the HP Laptop to avoid stock shortages.
+- Continue improving the Mobile Money payment experience.
+- Improve checkout procedures to ensure payment methods are consistently recorded.
+
+  ## 🚀 Skills Demonstrated
+
+- Data Cleaning
+- Data Validation
+- Exploratory Data Analysis (EDA)
+- Pivot Tables
+- Dashboard Design
+- Data Visualization
+- Business Analysis
+- Spreadsheet Modeling
+- Business Reporting
+
+  ## 👨‍💻 About the Author
+
+Hi, I'm **Steven Donkoh**, a BSc Physics (Computing) student at Kwame Nkrumah University of Science and Technology (KNUST) with a growing interest in Data Analytics.
+
+I'm currently building practical projects in Google Sheets, SQL, Power BI, and Python while developing the skills needed to solve real-world business problems through data.
+
+Feel free to connect with me and follow my journey as I continue to build my data analytics portfolio.
+
+## 🔮 Future Improvements
+
+- Recreate this analysis using SQL.
+- Build an interactive Power BI dashboard.
+- Perform advanced analysis using Python (Pandas and Matplotlib).
+- Expand the dataset to include a full year of sales.
+- Add predictive analytics and sales forecasting.
