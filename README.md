@@ -93,27 +93,27 @@ Pivot Tables were used to answer key business questions including:
 
 Below is a preview of the final Google Sheets dashboard created for this project.
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](Dashboardd.png)
 
 ## 📌 Key Business Insights
 
 - **Electronics** generated the highest revenue, significantly outperforming other product categories.
-- **Greater Accra** recorded the highest regional sales, indicating a strong customer base.
-- The **HP Laptop** was the highest revenue-generating product.
-- **Mobile Money (MoMo)** was the preferred payment method, accounting for over 40% of all transactions.
-- Approximately **52% of customers were returning customers**, indicating strong customer loyalty.
-- Around **15% of transactions** had no recorded payment method, highlighting an opportunity to improve data collection.
+- **Greater Accra** recorded the highest regional sales, indicating a strong customer base and strong market demand.
+- The **HP Laptop** was the highest revenue-generating product, making it one of the company's most valuable products.
+- **Mobile Money (MoMo)** was the preferred payment method, accounting for over 40% of all transactions, showing that customers favor digital payment options.
+- **Approximately 51.67% of orders were returned.** This unusually high return rate may indicate issues with product quality, order accuracy, shipping, or customer satisfaction. Investigating the reasons for returns could help reduce losses and improve customer experience.
+- **Around 15% of transactions** had no recorded payment method, highlighting a gap in data collection that should be addressed to improve reporting accuracy.
 
-  ## 💡 Business Recommendations
+ ## 💡 Business Recommendations
 
 Based on the analysis, the following recommendations are proposed:
 
-- Increase marketing efforts for Furniture and Office Supplies to diversify revenue sources.
-- Apply successful sales strategies from Greater Accra to other regions.
-- Maintain adequate inventory levels for the HP Laptop to avoid stock shortages.
-- Continue improving the Mobile Money payment experience.
-- Improve checkout procedures to ensure payment methods are consistently recorded.
-
+- Increase marketing efforts for **Furniture** and **Office Supplies** to reduce the company's heavy dependence on Electronics as its primary revenue source.
+- Replicate the successful sales and marketing strategies used in **Greater Accra** across other regions, particularly Western and Ashanti, to drive nationwide sales growth.
+- Maintain adequate inventory levels of the **HP Laptop** to prevent stock shortages and capitalise on its strong sales performance.
+- Continue improving the **Mobile Money (MoMo)** payment experience by ensuring fast, secure, and reliable transactions, as it is the preferred payment method for most customers.
+- Investigate the causes of the **51.67% product return rate** by analysing return reasons, improving product quality, enhancing order accuracy, and strengthening quality control processes.
+- Improve checkout procedures to ensure that **payment methods are recorded for every transaction**, leading to more accurate reporting and better business insights.
   ## 🚀 Skills Demonstrated
 
 - Data Cleaning
