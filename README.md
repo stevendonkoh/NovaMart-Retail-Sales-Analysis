@@ -50,7 +50,7 @@ It was designed to simulate a realistic retail environment and intentionally con
 |---|---|
 | Rows | 1,500 |
 | Columns | 24 |
-| Time Period | January – June 2025 |
+| Time Period | January – December 2025 |
 | Currency | Ghana Cedi (GH₵) |
 | Industry | Retail |
 
