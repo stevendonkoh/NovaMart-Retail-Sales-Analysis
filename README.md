@@ -402,6 +402,51 @@ The dashboard is included in the `Dashbords` folder.
 - Data Storytelling
 
 ---
+👨‍💻 About the Author
+
+Hi, I'm Steven Donkoh, a BSc Physics (Computing) student at Kwame Nkrumah University of Science and Technology (KNUST) with a growing interest in Data Analytics.
+
+I'm currently building practical projects in:
+
+Excel
+Google Sheets
+SQL
+Power BI
+Python
+
+My goal is to develop strong technical and analytical skills that allow me to solve real-world business problems using data.
+
+This NovaMart project represents one of my practical projects as I continue building my data analytics portfolio.
+
+🚀 Future Improvements
+
+The project can be extended further by:
+
+Building an interactive Power BI dashboard
+Performing advanced analysis using Python
+Using Pandas for data manipulation
+Using Matplotlib for visualisation
+Expanding the dataset beyond the current six-month period
+Performing customer segmentation
+Adding sales forecasting
+Performing predictive analytics
+Analysing customer churn and retention
+Building automated reporting
+📌 Conclusion
+
+The NovaMart Retail & Logistics Analysis demonstrates a complete data analytics workflow, from raw and imperfect data to cleaned datasets, SQL analysis, visualisation and business recommendations.
+
+The project demonstrates the practical application of Excel/Google Sheets and MySQL to investigate sales performance, product performance, customer behaviour and operational efficiency.
+
+It also demonstrates how technical analysis can be translated into business insights that can support decision-making.
+
+⭐ Project Highlights
+
+Dataset: 1,500 retail transactions
+Period: January – June 2025
+Currency: Ghana Cedi (GH₵)
+Tools: Excel, Google Sheets, MySQL, SQL, GitHub
+Focus: Retail Sales, Customer Analysis, Product Performance, Profitability & Logistics
 
 # 📁 Repository Structure
 
@@ -424,3 +469,6 @@ NovaMart-Retail-Sales-Analysis/
     ├── NovaMart_Dashboard.xlsx
     ├── NovaMart_Sales_Dashboard.pdf
     └── Dashboardd.png
+
+
+---
