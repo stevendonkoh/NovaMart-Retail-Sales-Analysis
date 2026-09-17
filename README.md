@@ -409,10 +409,10 @@ Hi, I'm Steven Donkoh, a BSc Physics (Computing) student at Kwame Nkrumah Univer
 
 I'm currently building practical projects in:
 
-Excel
-Google Sheets
-SQL
-Power BI
+Excel,
+Google Sheets,
+SQL,
+Power BI,
 Python
 
 My goal is to develop strong technical and analytical skills that allow me to solve real-world business problems using data.
@@ -437,6 +437,7 @@ Analysing customer churn and retention
 Building automated reporting
 
 ---
+
 # 📌 Conclusion
 
 The NovaMart Retail & Logistics Analysis demonstrates a complete data analytics workflow, from raw and imperfect data to cleaned datasets, SQL analysis, visualisation and business recommendations.
@@ -446,6 +447,7 @@ The project demonstrates the practical application of Excel/Google Sheets and My
 It also demonstrates how technical analysis can be translated into business insights that can support decision-making.
 
 ---
+
 # ⭐ Project Highlights
 
 Dataset: 1,500 retail transactions
