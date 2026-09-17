@@ -403,7 +403,7 @@ The dashboard is included in the `Dashbords` folder.
 
 ---
 
-#👨‍💻 About the Author
+# 👨‍💻 About the Author
 
 Hi, I'm Steven Donkoh, a BSc Physics (Computing) student at Kwame Nkrumah University of Science and Technology (KNUST) with a growing interest in Data Analytics.
 
@@ -421,7 +421,7 @@ This NovaMart project represents one of my practical projects as I continue buil
 
 ---
 
-#🚀 Future Improvements
+# 🚀 Future Improvements
 
 The project can be extended further by:
 
@@ -437,7 +437,7 @@ Analysing customer churn and retention
 Building automated reporting
 
 ---
-#📌 Conclusion
+# 📌 Conclusion
 
 The NovaMart Retail & Logistics Analysis demonstrates a complete data analytics workflow, from raw and imperfect data to cleaned datasets, SQL analysis, visualisation and business recommendations.
 
@@ -446,7 +446,7 @@ The project demonstrates the practical application of Excel/Google Sheets and My
 It also demonstrates how technical analysis can be translated into business insights that can support decision-making.
 
 ---
-#⭐ Project Highlights
+# ⭐ Project Highlights
 
 Dataset: 1,500 retail transactions
 Period: January – December 2025
