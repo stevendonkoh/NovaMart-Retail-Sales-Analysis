@@ -1,6 +1,6 @@
 # 🛍️ NovaMart Retail & Logistics Analysis
 
-![NovaMart Dashboard](Dashboard/Dashboardd.png)
+![NovaMart Dashboard](Dashboard/Dashboard.png)
 
 ## 📖 Project Overview
 
