@@ -352,6 +352,8 @@ The report includes KPI cards for **Total Revenue, Total Profit, Total Orders an
 
 The project also includes a PDF export of the dashboard for easy viewing. The Power BI `.pbix` file is provided so the report can be opened and explored in Power BI Desktop.
 
+A concise case study documenting the business problem, analytical workflow, key findings and recommendations is also available: **[View the NovaMart Project Case Study (PDF)](results/NovaMart_Project_Case_Study.pdf)**.
+
 ---
 
 # 🛠️ Tools & Technologies
@@ -472,7 +474,8 @@ NovaMart-Retail-Sales-Analysis/
 │   └── NovaMart_Retail_Analysis.sql
 │
 └── results/
-    └── NovaMart_Portfolio_Results.csv
+    ├── NovaMart_Portfolio_Results.csv
+    └── NovaMart_Project_Case_Study.pdf
 ```
 
 ---
