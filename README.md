@@ -241,9 +241,9 @@ Although High-value orders represented only **34.42% of orders**, they generated
 
 Greater Accra recorded the highest regional revenue.
 
-Western and Ashanti also showed strong sales performance.
+Ashanti recorded the lowest regional revenue. This highlights a potential opportunity to investigate demand, product mix and sales performance in lower-performing regions.
 
-This suggests that NovaMart has particularly strong demand in Greater Accra while other regions may provide opportunities for further growth.
+Greater Accra's stronger performance may provide useful lessons, but the factors behind regional differences should be investigated before applying the same approach elsewhere.
 
 ---
 
@@ -420,16 +420,16 @@ This NovaMart project represents one of my practical projects as I continue buil
 
 # 🚀 Future Improvements
 
-The project can be extended further by:
+Potential future improvements include:
 
-Performing advanced analysis using Python
-Using Pandas for data manipulation
-Using Matplotlib for visualisation
-Performing customer segmentation
-Adding sales forecasting
-Performing predictive analytics
-Analysing customer churn and retention
-Building automated reporting
+- Performing advanced analysis using Python
+- Using Pandas for data manipulation
+- Using Matplotlib for visualisation
+- Performing customer segmentation
+- Adding sales forecasting
+- Performing predictive analytics
+- Analysing customer churn and retention
+- Building automated reporting
 
 ---
 
@@ -457,22 +457,22 @@ Focus: Retail Sales, Customer Analysis, Product Performance, Profitability & Log
 NovaMart-Retail-Sales-Analysis/
 │
 ├── README.md
-├── NovaMart Dashboard.pbix
-├── NovaMart_Dashboard.pdf
+│
+├── Dashboard/
+│   ├── Dashboard.png
+│   ├── NovaMart Dashboard.pbix
+│   ├── NovaMart_Sales_Dashboard.pdf
+│   └── NovaMart_Dashboard.xlsx
 │
 ├── Data/
 │   ├── NovaMart_Retail_Raw_Sales_Dataset.xlsx
-│   └── NovaMart_Retail_Cleaned_Sales_Dataset.xlsx
+│   └── NovaMart_retail_cleaned_sales_dataset.xlsx
 │
 ├── sql/
 │   └── NovaMart_Retail_Analysis.sql
 │
-├── results/
-│   └── NovaMart_portfolio_Result.csv
-│
-└── Dashbords/
-    ├── NovaMart_Dashboard.xlsx
-    └── Dashboardd.png
+└── results/
+    └── NovaMart_Portfolio_Results.csv
 ```
 
 ---
