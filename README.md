@@ -10,7 +10,7 @@ The project was developed as a practical data analytics portfolio project, cover
 
 **Raw Data → Data Cleaning → Exploratory Analysis → SQL Analysis → Dashboard → Business Insights**
 
-The analysis was initially performed using **Google Sheets/Excel** and later extended using **MySQL** to perform more advanced data analysis.
+The analysis was carried out using **Google Sheets/Excel**, **MySQL** and **Power BI**. The project covers data preparation, SQL-based analysis and an interactive business dashboard.
 
 The objective was to transform messy transactional data into meaningful insights that could help a retail business understand its sales performance, customers, products, profitability and operations.
 
@@ -340,22 +340,17 @@ NovaMart can investigate the factors driving strong performance in Greater Accra
 
 # 📊 Dashboard
 
-An interactive retail sales dashboard was created using **Google Sheets/Excel**.
+An interactive retail sales dashboard was built in **Microsoft Power BI** using the cleaned `Clean_Sales` data.
 
-The dashboard provides a visual overview of:
+The report includes KPI cards for **Total Revenue, Total Profit, Total Orders and Average Order Value (AOV)**, alongside visuals for:
 
-- Revenue
-- Profit
-- Sales by category
-- Product performance
-- Regional performance
-- Monthly sales
-- Customer behaviour
-- Payment methods
-- Returns
-- Other key business metrics
+- Monthly revenue
+- Revenue by category
+- Revenue by region
+- Payment-method distribution
+- Best-selling products
 
-The dashboard is included in the `Dashbords` folder.
+The project also includes a PDF export of the dashboard for easy viewing. The Power BI `.pbix` file is provided so the report can be opened and explored in Power BI Desktop.
 
 ---
 
@@ -372,7 +367,9 @@ The dashboard is included in the `Dashbords` folder.
 
 - Excel/Google Sheets Charts
 - Pivot Tables
-- Interactive Dashboard
+- Microsoft Power BI
+- Interactive Power BI Dashboard
+- PDF Dashboard Export
 
 ### Version Control & Portfolio
 
@@ -425,11 +422,9 @@ This NovaMart project represents one of my practical projects as I continue buil
 
 The project can be extended further by:
 
-Building an interactive Power BI dashboard
 Performing advanced analysis using Python
 Using Pandas for data manipulation
 Using Matplotlib for visualisation
-Expanding the dataset beyond the current six-month period
 Performing customer segmentation
 Adding sales forecasting
 Performing predictive analytics
@@ -442,7 +437,7 @@ Building automated reporting
 
 The NovaMart Retail & Logistics Analysis demonstrates a complete data analytics workflow, from raw and imperfect data to cleaned datasets, SQL analysis, visualisation and business recommendations.
 
-The project demonstrates the practical application of Excel/Google Sheets and MySQL to investigate sales performance, product performance, customer behaviour and operational efficiency.
+The project demonstrates the practical application of Excel/Google Sheets, MySQL and Power BI to investigate sales performance, product performance, customer behaviour and operational efficiency.
 
 It also demonstrates how technical analysis can be translated into business insights that can support decision-making.
 
@@ -453,7 +448,7 @@ It also demonstrates how technical analysis can be translated into business insi
 Dataset: 1,500 retail transactions
 Period: January – December 2025
 Currency: Ghana Cedi (GH₵)
-Tools: Excel, Google Sheets, MySQL, SQL, GitHub
+Tools: Excel, Google Sheets, MySQL, SQL, Power BI, GitHub
 Focus: Retail Sales, Customer Analysis, Product Performance, Profitability & Logistics
 
 # 📁 Repository Structure
@@ -462,6 +457,8 @@ Focus: Retail Sales, Customer Analysis, Product Performance, Profitability & Log
 NovaMart-Retail-Sales-Analysis/
 │
 ├── README.md
+├── NovaMart Dashboard.pbix
+├── NovaMart_Dashboard.pdf
 │
 ├── Data/
 │   ├── NovaMart_Retail_Raw_Sales_Dataset.xlsx
@@ -475,8 +472,7 @@ NovaMart-Retail-Sales-Analysis/
 │
 └── Dashbords/
     ├── NovaMart_Dashboard.xlsx
-    ├── NovaMart_Sales_Dashboard.pdf
     └── Dashboardd.png
-
+```
 
 ---
